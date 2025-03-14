@@ -82,7 +82,7 @@ I am passionate about **Ethical Hacking** and **Cybersecurity** and love helping
 st.markdown('<p class="section-title">Highlights</p>', unsafe_allow_html=True)
 st.markdown("""
 - ✅ **UGC NET 2025** Qualified Assistant Professor in **Computer Science**.
-- ✅ **TSSET** Qualified for Assistant Professor.
+- ✅ **TSSET** Qualified  Assistant Professor in **Computer Science**.
 """)
 
 # Skills Section
